@@ -1,0 +1,24 @@
+﻿idPersonne;Prenom;Nom;Poids;Taille;Rue;Ville;Code Postal
+1;Martin; Marshall;60;150; rue de Nantes; Laval;53000
+2;Claire;Chazal;65;155; rue de Rennes; Laval;53000
+3; Jacques; Dupont;90;180; rue des Anges; Paris;75000
+4; Celine; Dia;66;166; rue Diderot; Paris;75000
+5; Remy; Cheval;88;200; rue du paradis; Nantes;44000
+6; Nicolas; Dutrou;40;150; rue Appert; Nantes;44000
+7; Marie; Claire;92;188; rue du paradis; Rouen;76000
+8; Nathalie; Sage;75;175; rue Appert; Rouen;76000
+9; Jean; Dujardin;56;166; rue des sorciers; Havre;76800
+10; Michel; Leclerc;100;202; rue du bonneur; Havre;76800
+11; Julien; Marshall;65;144; rue de Nantes; Laval;53000
+12; Julien; Claire;85;169; rue du Paradis; Paris;75000
+13; Jacques; Dupont;87;172; rue des Passeurs; Paris;75000
+14; Charles; Hallyday;69;133; rue des Feugrais; Rouen;76000
+15; Serge; Lama;78;174; rue des Heureux; Nantes;44000
+16; Vincent; Thomas;35;169; rue de Paris; Rennes;35000
+17; Eric; Dummat;56;155; rue de Versaille; Paris;75000
+18; Nicolas; Samuel;49;171; rue de Saint Louis; Laval;53000
+19; Remy; Guerry;54;157; rue des Sages; Lyon;69000
+20; Nicolas; Drapeau;63;145; rue Mitterrand; Limoges;87000
+21; Gaelle; Letourneau;83;195; rue Jean Luc; Rouen;76000
+22;Luc;Hollande;85;199;rue des Champs Elize;Paris;75000
+23; Maurice; Dupont; 12.0; 13.0; YES; YES; 88888

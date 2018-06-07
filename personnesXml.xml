@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personnes>
+	<personne id="1">
+		<prenom>Martin</prenom>
+		<nom>Marshall</nom>
+		<poids>57</poids>
+		<taille>185</taille>
+		<rue>rue de Nantes</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="2">
+		<prenom>François</prenom>
+		<nom>Hollande</nom>
+		<poids>76</poids>
+		<taille>181</taille>
+		<rue>rue du paradie</rue>
+		<ville>Nantes</ville>
+		<codePostal>44000</codePostal>
+	</personne>
+	<personne id="3">
+		<prenom>Jacques</prenom>
+		<nom>Dupont</nom>
+		<poids>55</poids>
+		<taille>174</taille>
+		<rue>rue des Anges</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="4">
+		<prenom>Jean</prenom>
+		<nom>Dujardin</nom>
+		<poids>99</poids>
+		<taille>185</taille>
+		<rue>rue des sorciers</rue>
+		<ville>Havre</ville>
+		<codePostal>76800</codePostal>
+	</personne>
+	<personne id="5">
+		<prenom>Charles</prenom>
+		<nom>Hallyday</nom>
+		<poids>110</poids>
+		<taille>170</taille>
+		<rue>rue des Feugrais</rue>
+		<ville>Rouen</ville>
+		<codePostal>76000</codePostal>
+	</personne>
+	<personne id="6">
+		<prenom>Rémy</prenom>
+		<nom>Guerry</nom>
+		<poids>100</poids>
+		<taille>185</taille>
+		<rue>rue des Sages</rue>
+		<ville>Lyon</ville>
+		<codePostal>69000</codePostal>
+	</personne>
+	<personne id="7">
+		<prenom>Eric</prenom>
+		<nom>Dummat</nom>
+		<poids>65</poids>
+		<taille>169</taille>
+		<rue>rue de Versaille</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="8">
+		<prenom>Vincent</prenom>
+		<nom>Thomas</nom>
+		<poids>88</poids>
+		<taille>200</taille>
+		<rue>rue de Paris</rue>
+		<ville>Rennes</ville>
+		<codePostal>35000</codePostal>
+	</personne>
+	<personne id="9">
+		<prenom>Claire</prenom>
+		<nom>Chazal</nom>
+		<poids>66</poids>
+		<taille>170</taille>
+		<rue>rue de Rennes</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="10">
+		<prenom>Serge</prenom>
+		<nom>Lama</nom>
+		<poids>89</poids>
+		<taille>190</taille>
+		<rue>rue des Heureux</rue>
+		<ville>Nantes</ville>
+		<codePostal>44000</codePostal>
+	</personne>
+</personnes>
